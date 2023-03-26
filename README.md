@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/golam-morshed/lazybook-api](https://my-json-server.typicode.com/golam-morshed/lazybook-api)
 
 ## Use your own data
 
